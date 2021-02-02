@@ -3,3 +3,9 @@ font-family: 'Open Sans'
 font-size: 24px;
 color: #000;
 }
+
+.feelings {
+background-color: blue;
+color: #fff;
+font-weight: 600;
+}
